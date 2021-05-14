@@ -2,25 +2,6 @@
 
 <channel>
 
-<name>[B][COLOR blue]APOIO PIX[/COLOR][/B]</name>
-
-<thumbnail>https://uploaddeimagens.com.br/images/003/194/737/original/20210413_234618.jpg?1618368869</thumbnail>
-
-<externallink>http://8.8.8.8</externallink>
-
-<fanart>https://captadores.org.br/wp-content/uploads/2020/02/pix2-768x315.jpg</fanart>
-
-<info>Addon Click já cadastrou a sua chave no [COLOR blue]PIX[/COLOR], e está recebendo doações a partir do email [COLOR blue]addonreviva@gmail.com[/COLOR] ou do código QR da imagem ao lado. Muito obrigado pelo seu apoio "motivacional" \0/.
-
-[COLOR yellow]||| Feito Pelo Mesmo Autor do Addon REVIVA, Agora Com 
-Todos os Links Ligados Diretamente ao Streaming da Internet, Isso Significa que Você Clica e o Vídeo Inicia Rapidamente, Sem a Necessidade do Addon Elementum! |||[/COLOR]</info>
-
-</channel>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channel>
-
 <name>[B][COLOR wheat]FILMES[/COLOR][/B]</name>
 
 <thumbnail>https://i.imgur.com/rTPFbNp.png</thumbnail>
