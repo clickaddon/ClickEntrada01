@@ -26,7 +26,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <thumbnail>https://i.imgur.com/rTPFbNp.png</thumbnail>
 
-<externallink></externallink>
+<externallink>https://github.com/clickaddon/ClickEntrada02/raw/main/README.md</externallink>
 
 <fanart>https://i.imgur.com/P4DDzB6.jpg</fanart>
 
