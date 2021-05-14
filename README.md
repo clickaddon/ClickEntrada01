@@ -19,7 +19,6 @@ Todos os Links Ligados Diretamente ao Streaming da Internet, Isso Significa que 
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-
 <channel>
 
 <name>[B][COLOR wheat]FILMES[/COLOR][/B]</name>
@@ -50,7 +49,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[B][COLOR yellow]EM BREVE[/COLOR][/B]</info>
 
 </channel>
-
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
