@@ -20,7 +20,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 
-<name>[B][COLOR aliceblue]FILMES[/COLOR][/B]</name>
+<name>[B][COLOR powderblue]FILMES[/COLOR][/B]</name>
 
 <thumbnail>https://i.imgur.com/jD68CzN.jpg</thumbnail>
 
@@ -39,7 +39,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 
-<name>[B][COLOR linen]SÉRIES[/COLOR][/B]</name>
+<name>[B][COLOR cadetblue]SÉRIES[/COLOR][/B]</name>
 
 <thumbnail>https://i.imgur.com/3OxDlHO.jpg</thumbnail>
 
@@ -58,7 +58,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 
-<name>[B][COLOR lemonchiffon]MÚSICA[/COLOR][/B]</name>
+<name>[B][COLOR steelblue]MÚSICA[/COLOR][/B]</name>
 
 <externallink>https://github.com/clickaddon/MHUSIC/raw/main/Mhusic</externallink>
 
