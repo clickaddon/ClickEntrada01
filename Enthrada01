@@ -3,7 +3,7 @@
 
 <channel>
 
-<name>[B][COLOR lightskyblue]APOIO PIX[/COLOR][/B]</name>
+<name>[B][COLOR mediumseagreen]APOIO PIX[/COLOR][/B]</name>
 
 <thumbnail>https://i.imgur.com/U8MQTyo.jpg</thumbnail>
 
@@ -20,7 +20,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 
-<name>[B][COLOR darkturquoise]FILMES[/COLOR][/B]</name>
+<name>[B][COLOR lightgreen]FILMES[/COLOR][/B]</name>
 
 <thumbnail>https://i.imgur.com/jD68CzN.jpg</thumbnail>
 
@@ -34,12 +34,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 </channel>
 
-
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 
-<name>[B][COLOR cadetblue]SÉRIES[/COLOR][/B]</name>
+<name>[B][COLOR palegreen]SÉRIES[/COLOR][/B]</name>
 
 <thumbnail>https://i.imgur.com/3OxDlHO.jpg</thumbnail>
 
@@ -53,12 +52,11 @@ TEMPO E SUA ATENÇÃO, E QUE
 
 </channel>
 
-
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 
-<name>[B][COLOR mediumturquoise]MÚSICA[/COLOR][/B]</name>
+<name>[B][COLOR mediumspringgreen]MÚSICA[/COLOR][/B]</name>
 
 <externallink>https://github.com/clickaddon/MHUSIC/raw/main/Mhusic</externallink>
 
@@ -73,5 +71,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </channel>
 
 </channels>
+
 
 
