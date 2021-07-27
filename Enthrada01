@@ -20,7 +20,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 
-<name>[B][COLOR lightgreen]FILMES[/COLOR][/B]</name>
+<name>[B][COLOR blanchedalmond]FILMES[/COLOR][/B]</name>
 
 <thumbnail>https://i.imgur.com/jD68CzN.jpg</thumbnail>
 
@@ -56,7 +56,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 
-<name>[B][COLOR lightgreen]MÚSICA[/COLOR][/B]</name>
+<name>[B][COLOR palegreen]MÚSICA[/COLOR][/B]</name>
 
 <externallink>https://github.com/clickaddon/MHUSIC/raw/main/Mhusic</externallink>
 
